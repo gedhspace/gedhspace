@@ -9,8 +9,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gedhspace&theme=radical" alt="gedhspace's GitHub Streak" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gedhspace&show_icons=true&theme=tokyonight)](https://space.bilibili.com/3494366867884831)
 
+<div align="center">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gedhspace&show_icons=true&theme=tokyonight)](https://space.bilibili.com/3494366867884831)
+</div>
 
 
 ### Detailed Languages
