@@ -1,7 +1,11 @@
 <div align="center">
-    [![Anurag's GitHub stats](https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Gedh-StuffyWalk)](https://space.bilibili.com/3494366867884831)
 
-[![Anurag's GitHub stats](https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Hello!2025)](https://space.bilibili.com/3494366867884831)
+<div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Gedh-StuffyWalk" alt="gedhspace's GitHub Streak" />
+</div>
+<div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Hello%202025!Bye%202024!" alt="gedhspace's GitHub Streak" />
+</div>
 </div>
 
 <div align="center">
@@ -10,7 +14,9 @@
 
 
 <div align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gedhspace&show_icons=true&theme=tokyonight)](https://space.bilibili.com/3494366867884831)
+
+<img src="https://github-readme-stats.vercel.app/api?username=gedhspace&show_icons=true&theme=tokyonight" alt="gedhspace's GitHub Streak" />
+
 </div>
 
 
