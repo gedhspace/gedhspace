@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Gedh-StuffyWalk" alt="gedhspace's GitHub Streak" />
 </div>
 <div>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Hello%202025!Bye%202024!" alt="gedhspace's GitHub Streak" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Hello!" alt="gedhspace's GitHub Streak" />
 </div>
 </div>
 
