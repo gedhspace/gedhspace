@@ -8,10 +8,6 @@
 </div>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gedhspace&theme=radical" alt="gedhspace's GitHub Streak" />
-</div>
-
 
 <div align="center">
 
